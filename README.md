@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnSabahNurX
+- 👋 Hi, I’m Ricardo Almeida
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning ECMAscript / Javascript and Python
 - 💞️ I’m looking to collaborate on Starter Projects
