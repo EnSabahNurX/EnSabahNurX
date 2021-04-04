@@ -7,14 +7,14 @@
 - 🌱 I’m currently learning ECMAscript / Javascript and Python
 - 💞️ I’m looking to collaborate on Starter Projects
 - 📫 ricklimadealmeida@gmail.com
-- :iphone: [Telegram](https://t.me/ricardolimadealmeida "@ricardolimadealmeida")
+- :iphone: <a href="https://t.me/ricardolimadealmeida" title="@ricardolimadealmeida" target="_blank">@ricardolimadealmeida</a>
 
-Please take a look on my [Personal Portfolio](https://ensabahnurx.github.io/ "Personal Portfolio") :wink::+1:
+Please take a look on my <a href="https://ensabahnurx.github.io" title="ensabahnurx.github.io" target="_blank">Personal Portfolio</a> :wink::+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ricardo-almeida-b3a89a68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-almeida-b3a89a68" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ricardolimadealmeida0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ga.brielapinheiro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ricardo-almeida-b3a89a68" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-almeida-b3a89a68" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ricardolimadealmeida0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ricardolimadealmeida0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
