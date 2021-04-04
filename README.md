@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ECMAscript / Javascript and Python
 - 💞️ I’m looking to collaborate on Starter Projects
 - 📫 ricklimadealmeida@gmail.com
-- :iphone: @ricardolimadealmeida (Telegram)
+- :iphone: [Telegram](https://t.me/ricardolimadealmeida "@ricardolimadealmeida")
 
 Please take a look on my [Personal Portfolio](https://ensabahnurx.github.io/ "Personal Portfolio") :wink::+1:
 
