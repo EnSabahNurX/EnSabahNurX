@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-almeida-b3a89a68" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-almeida-b3a89a68" height="30" width="40" /></a>
 </p>
-[Linkedin](https://www.linkedin.com/in/ricardo-almeida-b3a89a68/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> </p>
