@@ -11,6 +11,10 @@
 
 [![Ricardo Almeida Github Stats](https://github-readme-stats.vercel.app/api?username=EnSabahNurX)](https://github.com/EnSabahNurX)
 
+## Stats & Activity
+
+![Metrics](https://raw.githubusercontent.com/EnSabahNurX/EnSabahNurX/master/github-metrics.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-almeida-b3a89a68" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-almeida-b3a89a68" height="30" width="40" /></a>
