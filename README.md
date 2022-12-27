@@ -14,6 +14,7 @@
 ## Stats & Activity
 
 ![Metrics](https://raw.githubusercontent.com/EnSabahNurX/EnSabahNurX/master/github-metrics.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EnSabahNurX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
